@@ -1,0 +1,22 @@
+header {
+    background-color: #303030;
+    display: flex;
+    align-items: center;
+    padding: 30px 15px;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  header > img,
+  header > h1 {
+    margin-right: auto;
+  }
+  
+  header > img {
+    height: 7rem;
+  }
+  
+  header > h1 {
+    font-family: 'Raleway';
+    color: white;
+  }
